@@ -32,12 +32,6 @@
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/ddys.js"
         },
         {
-            "name": "TV-瓜子影视",
-            "type": 3,
-            "api": "csp_guazi",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
-        },
-        {
             "name": "TV-韩剧看看",
             "type": 3,
             "api": "csp_hjkk",
@@ -55,12 +49,6 @@
             "api": "csp_Olevod",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/ole.js",
             "ext2": "https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
-        },
-        {
-            "name": "TV-皮皮虾影视",
-            "type": 3,
-            "api": "csp_ppxys",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/ppxys.js"
         },
         {
             "name": "TV-素白白影视",
