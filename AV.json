@@ -7,12 +7,6 @@
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/taiav.js"
         },
         {
-            "name": "AV-肉视频",
-            "type": 3,
-            "api": "csp_rou",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/rou.js"
-        },
-        {
             "name": "AV-有爱爱",
             "type": 3,
             "api": "csp_uaa",
