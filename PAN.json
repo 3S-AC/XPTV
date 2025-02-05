@@ -1,0 +1,148 @@
+{
+    "sites": [
+        {
+            "name": "PAN-Star2",
+            "type": 3,
+            "api": "csp_star2",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/star2.js" 
+        },
+        {
+            "name": "PAN-SeedHub",
+            "type": 3,
+            "api": "csp_seedhub",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/seedhub.js"
+        },
+        {
+            "name": "PAN-TG Search",
+            "type": 3,
+            "api": "csp_tgs",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/tgs.js" 
+        },
+        {
+            "name": "PAN-奥秘影视",
+            "type": 3,
+            "api": "csp_aomi",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/aomi.js"
+        },
+        {
+            "name": "PAN-白嫖分享",
+            "type": 3,
+            "api": "csp_baipiao",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/baipiao.js"
+        },
+        {
+            "name": "PAN-多多影音",
+            "type": 3,
+            "api": "csp_yydsys",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yydsys.js"
+        },
+        {
+            "name": "PAN-观影GYING",
+            "type": 3,
+            "api": "csp_guanying",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/main/js/GYING_2025_2.js"
+        },
+        {
+            "name": "PAN-蜡笔盘",
+            "type": 3,
+            "api": "csp_labi",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/labipan.js"
+        },
+        {
+            "name": "PAN-雷鲸小站",
+            "type": 3,
+            "api": "csp_leijing",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/leijing.js"
+        },
+        {
+            "name": "PAN-六趣网盘",
+            "type": 3,
+            "api": "csp_liuqu",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/liuqu.js"
+        },
+        {
+            "name": "PAN-木偶",
+            "type": 3,
+            "api": "csp_muou",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/muou.js"
+        },
+        {
+            "name": "PAN-南风短剧",
+            "type": 3,
+            "api": "csp_nanfdj",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
+        },
+        {
+            "name": "PAN-欧歌",
+            "type": 3,
+            "api": "csp_ouge",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/ouge.js"
+        },
+        {
+            "name": "PAN-闪电UC",
+            "type": 3,
+            "api": "csp_shandian",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/shandian.js"
+        },
+        {
+            "name": "PAN-特下饭",
+            "type": 3,
+            "api": "csp_xiafan",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/xiafan.js"
+        },
+        {
+            "name": "PAN-天逸搜",
+            "type": 3,
+            "api": "csp_tianyiso",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/874d9b180bcaff91e2dac06d38ed8474/raw/tianyiso.js"
+        },
+        {
+            "name": "PAN-玩偶哥哥",
+            "type": 3,
+            "api": "csp_wogg",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/ad857b12b6b8adebd99b8de42d87b983/raw/wogg.js"
+        },
+        {
+            "name": "PAN-小虎斑",
+            "type": 3,
+            "api": "csp_huban",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/huban.js"
+        },
+        {
+            "name": "PAN-小米UC",
+            "type": 3,
+            "api": "csp_js/mucpan",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/main/js/mucpan.js"
+        },
+        {
+            "name": "PAN-小盘盘",
+            "type": 3,
+            "api": "csp_xpanpan",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/xpanpan.js"
+        },
+        {
+            "name": "PAN-校长影视",
+            "type": 3,
+            "api": "csp_xzys",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/xzys.js"
+        },
+        {
+            "name": "PAN-云盘吧",
+            "type": 3,
+            "api": "csp_yunpan8",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yunpan8.js"
+        },
+        {
+            "name": "PAN-云盘资源网",
+            "type": 3,
+            "api": "csp_yunpanres",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yunpanres.js"
+        },
+        {
+            "name": "PAN-至臻视觉",
+            "type": 3,
+            "api": "csp_mihdr",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/mihdr.js"
+        }
+    ]
+}
