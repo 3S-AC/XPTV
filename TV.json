@@ -38,19 +38,6 @@
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
         },
         {
-            "name": "TV-金牌影院",
-            "type": 3,
-            "api": "csp_jpyy",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
-        },
-        {
-            "name": "TV-欧乐影院",
-            "type": 3,
-            "api": "csp_Olevod",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/ole.js",
-            "ext2": "https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
-        },
-        {
             "name": "TV-素白影视",
             "type": 3,
             "api": "csp_subaibai",
@@ -68,11 +55,6 @@
             "api": "csp_xingya",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
         },
-        {
-            "name": "TV-瓜子影视",
-            "type": 3,
-            "api": "csp_guazi",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
         },
         {
             "name": "TV-影视天堂",
