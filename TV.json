@@ -97,6 +97,12 @@
             "type": 3,
             "api": "csp_hgTV",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/hgtv.js"
+        },
+        {
+            "name": "TV-剧迷TV",
+            "type": 3,
+            "api": "csp_GimyTV",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/GimyTV.js"
         }
     ]
 }
