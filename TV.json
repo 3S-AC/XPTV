@@ -1,108 +1,114 @@
 {
     "sites": [
         {
-            "name": "TV-HDmoli",
+            "name": "HDmoli",
             "type": 3,
             "api": "csp_hdmoli",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdmoli.js"
         },
         {
-            "name": "TV-LIBVIO",
+            "name": "LIBVIO",
             "type": 3,
             "api": "csp_libvio",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/libvio.js",
             "ext2": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/libvio.js"
         },
         {
-            "name": "TV-哔滴影视",
+            "name": "哔滴影视",
             "type": 3,
             "api": "csp_bde4",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/bdys.js"
         },
         {
-            "name": "TV-厂长资源",
+            "name": "厂长资源",
             "type": 3,
             "api": "csp_czzy",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"
         },
         {
-            "name": "TV-低端影视",
+            "name": "低端影视",
             "type": 3,
             "api": "csp_ddys",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/ddys.js"
         },
         {
-            "name": "TV-韩剧看看",
+            "name": "韩剧看看",
             "type": 3,
             "api": "csp_hjkk",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
         },
         {
-            "name": "TV-素白影视",
+            "name": "素白影视",
             "type": 3,
             "api": "csp_subaibai",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/subaibai.js"
         },
         {
-            "name": "TV-星芽短剧",
+            "name": "星芽短剧",
             "type": 3,
             "api": "csp_xingya",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
         },
         {
-            "name": "TV-在线之家",
+            "name": "在线之家",
             "type": 3,
             "api": "csp_Zxzj",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/main/js/zxzj.js",
             "ext2": "https://gist.githubusercontent.com/occupy-pluto/13a199a1a85c619f948d40e6c5a12c21/raw/zxzj.js"
         },
         {
-            "name": "TV-苹果影视",
+            "name": "苹果影视",
             "type": 3,
             "api": "csp_apple",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
         },
         {
-            "name": "TV-桃子影视",
+            "name": "桃子影视",
             "type": 3,
             "api": "csp_tzsp",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/taozi.js"
         },
         {
-            "name": "TV-樱花动漫",
+            "name": "樱花动漫",
             "type": 3,
             "api": "csp_yhdm",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yhdm.js" 
         },
         {
-            "name": "TV-大米星球",
+            "name": "大米星球",
             "type": 3,
             "api": "csp_js/dmxq",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dmxq.js" 
         },
         {
-            "name": "TV-新视觉",
+            "name": "新视觉",
             "type": 3,
             "api": "csp_js/xsjyy",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/xsjyy.js" 
         },
         {
-            "name": "TV-555影视",
+            "name": "555影视",
             "type": 3,
             "api": "csp_js/555ys",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/555ys.js" 
         },
         {
-            "name": "TV-海龟TV",
+            "name": "海龟TV",
             "type": 3,
             "api": "csp_hgTV",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/hgtv.js"
         },
         {
-            "name": "TV-剧迷TV",
+            "name": "剧迷TV",
             "type": 3,
             "api": "csp_GimyTV",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/GimyTV.js"
+        },
+        {
+            "name": "影视TV",
+            "type": 3,
+            "api": "csp_ysTV",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/ysTV.js"
         }
     ]
 }
