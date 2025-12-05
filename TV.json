@@ -187,7 +187,7 @@
             "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/duole_tu.js"
         },
         {
-            "name": "剧迷_兔",
+            "name": "剧迷",
             "type": 3,
             "api": "csp_gimytv_tu",
             "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/gimytv_tu.js"
