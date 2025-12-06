@@ -6,18 +6,6 @@
             "api": "csp_czzy",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/czzy.js"
         },
-        {
-            "name": "fmovies",
-            "type": 3,
-            "api": "csp_fmovies",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/fmovies.js"
-        },
-        {
-            "name": "哔滴影视",
-            "type": 3,
-            "api": "csp_bde4",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
-        },
         { 
             "name": "欧乐影视🪜", 
             "type": 3, 
@@ -53,12 +41,6 @@
             "type": 3,
             "api": "csp_xingya",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
-        },
-        {
-            "name": "瓜子影视",
-            "type": 3,
-            "api": "csp_guazi",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
         },
         {
             "name": "爱一帆🪜",
