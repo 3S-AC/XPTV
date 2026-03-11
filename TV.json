@@ -1,5 +1,35 @@
 {
     "sites": [
+        {
+            "name": "玩偶哥哥",
+            "type": 3,
+            "api": "csp_wogg_tu",
+            "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/wogg_tu.js"
+        },
+        {
+            "name": "seedhub",
+            "type": 3,
+            "api": "csp_seedhub_tu",
+            "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/seedhub_tu.js"
+        },
+        {
+            "name": "趣盘搜",
+            "type": 3,
+            "api": "csp_qps_tu",
+            "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/qps_tu.js"
+        },
+        {
+            "name": "tg搜索",
+            "type": 3,
+            "api": "csp_tgs_tu",
+            "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/tgs_tu.js"
+        },
+        {
+            "name": "libvio",
+            "type": 3,
+            "api": "csp_libvio_tu",
+            "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
+        },
         { 
             "name": "在线之家", 
             "type": 3, 
