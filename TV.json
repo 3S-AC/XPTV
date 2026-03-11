@@ -7,7 +7,7 @@
             "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/wogg_tu.js"
         },
         {
-            "name": "seedhub",
+            "name": "Seedhub",
             "type": 3,
             "api": "csp_seedhub_tu",
             "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/seedhub_tu.js"
@@ -19,13 +19,7 @@
             "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/qps_tu.js"
         },
         {
-            "name": "tg搜索",
-            "type": 3,
-            "api": "csp_tgs_tu",
-            "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/tgs_tu.js"
-        },
-        {
-            "name": "libvio",
+            "name": "Libvio",
             "type": 3,
             "api": "csp_libvio_tu",
             "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
